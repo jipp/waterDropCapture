@@ -1,6 +1,5 @@
 #define ATTINY
 
-#include <Arduino.h>
 #include <Streaming.h>
 
 /*
